@@ -1,0 +1,7 @@
+C:\Users\sanskruti.itkar\source\repos\INHStudentProfessor\bin\Debug\INHStudentProfessor.exe.config
+C:\Users\sanskruti.itkar\source\repos\INHStudentProfessor\bin\Debug\INHStudentProfessor.exe
+C:\Users\sanskruti.itkar\source\repos\INHStudentProfessor\bin\Debug\INHStudentProfessor.pdb
+C:\Users\sanskruti.itkar\source\repos\INHStudentProfessor\obj\Debug\INHStudentProfessor.csproj.AssemblyReference.cache
+C:\Users\sanskruti.itkar\source\repos\INHStudentProfessor\obj\Debug\INHStudentProfessor.csproj.CoreCompileInputs.cache
+C:\Users\sanskruti.itkar\source\repos\INHStudentProfessor\obj\Debug\INHStudentProfessor.exe
+C:\Users\sanskruti.itkar\source\repos\INHStudentProfessor\obj\Debug\INHStudentProfessor.pdb
